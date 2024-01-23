@@ -828,6 +828,10 @@
     color: #000;
 }
 
-.light .news__bottom__left__title, .news__bottom__card__title {
+.light .news__bottom__left__title {
+    color: #000;
+}
+
+.light .news__bottom__card__title {
     color: #000;
 }
